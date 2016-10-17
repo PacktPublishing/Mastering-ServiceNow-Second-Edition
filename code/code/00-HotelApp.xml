@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2016-10-09 00:52:05">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</application>
+<application_name>Hotel</application_name>
+<application_scope>x_hotel</application_scope>
+<application_version>0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Mastering ServiceNow - Chapter 1 - Hotel Bootstrap</description>
+<inserted/>
+<name>Hotel Bootstrap</name>
+<origin_sys_id/>
+<release_date/>
+<remote_sys_id>3003046247d222004fcd0547dee490b3</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-10-09 00:52:05</sys_created_on>
+<sys_id>0c53046247d222004fcd0547dee490d8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-10-09 00:52:05</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_a8f395beebc522004fcde08a5206fe2e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><enforce_license>log</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><logo/><menu/><name>Hotel</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_hotel</scope><scoped_administration>false</scoped_administration><short_description/><source>x_hotel</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2016-08-08 22:04:23</sys_created_on><sys_id>a8f395beebc522004fcde08a5206fe2e</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2016-08-08 22:06:45</sys_updated_on><template/><trackable>true</trackable><user_role/><vendor/><vendor_prefix/><version>0</version></sys_app></record_update>]]></payload>
+<remote_update_set display_value="Hotel Bootstrap">0c53046247d222004fcd0547dee490d8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2016-10-09 00:52:05</sys_created_on>
+<sys_id>8c53046247d222004fcd0547dee490d8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2016-10-09 00:52:05</sys_updated_on>
+<table/>
+<target_name>Hotel</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
